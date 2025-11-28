@@ -1,0 +1,16 @@
+{
+  "description": "EcoLens predator-prey-resource simulation",
+  "parameters": {
+    "days": 200,
+    "init_prey": 80,
+    "init_pred": 15,
+    "seed": 42
+  },
+  "graphs": [
+    "C:\\Users\\user\\Desktop\\New folder\\Eco lens\\graphs\\ecolens_pop_resource.png",
+    "C:\\Users\\user\\Desktop\\New folder\\Eco lens\\graphs\\ecolens_efficiency.png",
+    "C:\\Users\\user\\Desktop\\New folder\\Eco lens\\graphs\\ecolens_phase.png"
+  ],
+  "log": "C:\\Users\\user\\Desktop\\New folder\\Eco lens\\logs\\ecolens_history.json",
+  "uploaded_research_doc": "/mnt/data/f414c8e7-313c-4086-8571-96aa847171bb (1).docx"
+}
