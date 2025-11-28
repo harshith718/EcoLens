@@ -90,3 +90,7 @@ Visualizing population dynamics for research or teaching
 📜 License
 
 This project is part of a personal research portfolio and is free to use for educational and non-commercial purposes.
+
+## 🔗 Portfolio Link  
+Complete 6-project evolution research collection:  
+https://west-route-a3b.notion.site/BioGraph-Evolution-Research-Portfolio-2b69325d1ab1804dab15f731b8af6581?source=copy_link
