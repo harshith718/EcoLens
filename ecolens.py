@@ -1,5 +1,5 @@
 # ecolens.py
-# EcoLens: simple ecosystem simulator (predator-prey + resource flow)
+# EcoLens: simplified ecosystem simulation (predator–prey with resource dynamics)
 # Usage: python3 ecolens.py --days 200 --init_prey 80 --init_pred 15
 # Outputs: graphs saved to ../graphs, log saved to ../logs/ecolens_history.json
 
@@ -15,7 +15,7 @@ os.makedirs(OUT_GRAPHS, exist_ok=True)
 os.makedirs(OUT_LOGS, exist_ok=True)
 
 # include your uploaded research doc path in the report
-UPLOADED_RESEARCH_DOC = "/mnt/data/f414c8e7-313c-4086-8571-96aa847171bb (1).docx"
+UPLOADED_RESEARCH_DOC = None
 
 # ----------------- Ecosystem model -----------------
 class Individual:
